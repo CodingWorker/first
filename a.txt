@@ -1,7 +1,2 @@
-aa
-hello
-<<<<<<< HEAD
-change
-=======
-some change
->>>>>>> master
+
+a
